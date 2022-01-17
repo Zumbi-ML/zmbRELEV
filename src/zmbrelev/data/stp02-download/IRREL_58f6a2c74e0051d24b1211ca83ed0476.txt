@@ -1,0 +1,38 @@
+https://acervo.estadao.com.br/noticias/acervo,como-funciona-o-conversor-de-valores,581,0.htm
+09 de dezembro de 2011 | 15h 54
+
+As várias mudanças de moedas e períodos de inflação estratosférica que o Brasil atravessou em sua história impedem de termos uma noção dos valores monetários de épocas passadas. Como o Acervo Estadão traz páginas onde estão estampados preços dos mais diversos tipos, uma ferramenta para conversão de valores foi criada para calcular quanto custariam nos dias de hoje os produtos, serviços e bens imobiliários ali anunciados nos classificados ou descritos nas reportagens.
+
+Na busca por um índice que desse conta da tarefa e fosse de fácil compreensão, o indexador procurado saltou das páginas: estava ali, diariamente, nas capas do jornal: o preço de um exemplar do próprio jornal.
+
+Para chegar aos valores em reais expressos nas conversões foi usada uma fórmula bem simples: dividir o preço do produto publicado pelo preço do jornal na data da publicação (exceto das edições de domingo. Nesse caso, é utilizado o preço do jornal dos dias úteis). Dessa conta, sai o resultado que permitirá a atualização do preço: o número de exemplares de jornal que era possível comprar com o valor de determinado produto. Multiplicando-se esse número pelo valor atual do jornal, o preço está atualizado.
+
+No caso do ingresso de arquibancada para o show do Frank Sinatra no Maracanã , em 1980, por exemplo, calcula-se quantos exemplares de jornais seria possível comprar com o preço do ingresso:
+
+Cr$ 100 (preço do ingresso) / Cr$ 10 (preço do jornal na época) = 10 (nº de exemplares) x R$ 4,00 (preço atual do jornal) = R$ 30 (preço atualizado do ingresso)
+
+Com o conversor de valores, é possível converter qualquer preço antigo para a moeda atual e também o inverso: saber qual o poder de compra de uma quantia atual - do seu salário, por exemplo - em alguma data do passado. Ou comparar o preço do seu imóvel com o de um que ele foi anunciado no Estadão 100 atrás. Basta preencher a data e um dos valores.
+
+Na área da calculadora, na página principal do Acervo, sempre haverá alguns valores selecionados, com links para as páginas originais de onde foram tirados os preços.
+
+Por se tratar de um cálculo informal e sem qualquer rigor científico, não utilize o resultado da calculadora do Acervo Estadão em transações comerciais, negócios de qualquer espécie, correção de valores e reajustes. Apenas divirta-se.
+
+MOEDAS BRASILEIRAS
+
+rs - Réis - até 30/10/1942
+
+Cr$ - Cruzeiro (1) - 01/11/1942 a 12/2/1967
+
+NCr$ - Cruzeiro Novo - 13/2/1967 a 14/5/1970
+
+Cr$ - Cruzeiro (2) - 15/5/1970 a 27/2/1986
+
+Cz$ - Cruzado - 28/2/1986 a 15/1/1989
+
+NCz$ - Cruzado Novo - 16/1/1989 a 15/3/1990
+
+Cr$ - Cruzeiro (3) - 16/3/1990 a 31/7/1993
+
+CR$ - Cruzeiro Real - 1/8/1993 a 30/6/1994
+
+R$ - Real - Desde 1/7/1994

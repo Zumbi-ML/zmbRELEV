@@ -1,0 +1,32 @@
+http://estudio.folha.uol.com.br/whatsapp-protegido/2020/04/1988669-saiba-como-deixar-seu-whatsapp-ainda-mais-seguro.shtml
+Recursos do próprio aplicativo garantem camada extra de proteção; conheça também formas de evitar golpes e de recuperar sua conta
+
+O WhatsApp é um dos aplicativos mais populares do mundo. Usado por 2 bilhões de pessoas em 180 países, o app para a troca de mensagens e diversos tipos de arquivos, como fotos, vídeos, contatos e documentos, é um serviço gratuito e confiável. Mas você pode tornar sua conta no WhatsApp ainda mais segura usando os recursos do próprio app e seguindo recomendações para prevenir golpes e roubos de conta.
+
+O primeiro passo para garantir uma camada extra de segurança ao seu WhatsApp é ativar o recurso de confirmação em duas etapas, um código de seis dígitos que você mesmo escolhe.
+
+Essa funcionalidade deixa o app duplamente protegido porque se alguém tentar acessar a sua conta de outro celular vai precisar digitar esse número. Com isso, para hackear uma conta, a pessoa mal intencionada precisará ter acesso a dois códigos: o de ativação do WhatsApp, que é enviado por SMS quando ele é instalado, e o PIN da confirmação em duas etapas.
+
+É muito fácil ativar esse recurso. Em smartphones com o sistema operacional Android, basta abrir o WhatsApp, clicar no símbolo dos três pontinhos, no canto superior direito da tela, ir para Configurações, tocar em Conta, Verificação em Duas Etapas e Ativar. Depois de definir o código de 6 números, basta informar o e-mail e pronto. Veja quadro abaixo.
+
+Para usuários de iPhone, a diferença é que a ativação começa em Ajustes. Depois é só clicar em Conta e seguir os mesmos passos. Veja quadro acima.
+
+Como não cair em golpes
+
+Para prevenir os usuários contra golpes, o WhatsApp lançou uma campanha publicitária com recomendações sobre como se proteger e o que fazer se a conta for roubada ou hackeada.
+
+"Nosso objetivo com essa campanha é mostrar ao usuário do WhatsApp que a empresa está próxima e que ele tem total controle sobre sua conta, reforçando os principais cuidados para protegê-la", afirma Taciana Lopes, líder de Consumer Marketing do Facebook Brasil, empresa à qual o WhatsApp pertence.
+
+Entre as recomendações contra golpes estão nunca compartilhar com terceiros o código de ativação do WhatsApp, aquele que chega por SMS, ativar a confirmação em duas etapas e não informar os seis números para ninguém, não instalar apps de terceiros ou compartilhar dados a pedido de outras pessoas pelo WhatsApp e ainda desconfiar de ligações de empresas que usam uma linguagem muito informal.
+
+E se a conta for roubada?
+
+Se você inadvertidamente fornecer o código de ativação de seu WhatsApp ou cair em um golpe que pede esse código, sua conta pode ser roubada ou clonada. Quando isso acontece, uma mensagem informa que o app está ativo em outro aparelho e que você não pode acessar sua conta.
+
+A primeira coisa a fazer é tentar recuperar a conta por meio do seu próprio celular. Para isso, reinstale o WhatsApp, insira o número do seu celular e siga os passos na tela. Assim que você se conectar ao app em seu aparelho, quem estiver logado com seu número será desconectado imediatamente.
+
+Caso esse procedimento não funcione, um email deve ser enviado para support@whatsapp.com. A mensagem pode ser escrita em português. No campo assunto digite "Conta clonada/roubada" e informe o número do celular no formato internacional: código do país (55 para Brasil), DDD e número. Exemplo: Conta clonada/roubada / +55 11 9xxx-xxxx.
+
+"Colocamos o canal de suporte à disposição, em português, para a resolução dessa questão do roubo das contas", diz Taciana Lopes.
+
+O WhatsApp é um dos aplicativos mais usados pelos brasileiros. Ao seguir essas recomendações e medidas de segurança, cada usuário pode proteger a sua conta e evitar que dados e contatos sejam roubados e as conversas perdidas.

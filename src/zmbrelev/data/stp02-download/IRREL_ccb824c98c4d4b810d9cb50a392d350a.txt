@@ -1,0 +1,32 @@
+https://f5.folha.uol.com.br/voceviu/2021/12/o-erro-que-fez-arte-digital-nft-de-r-17-milhao-ser-vendida-por-r-17-mil.shtml
+No mercado da criptomoeda, há dificuldade em reverter venda
+
+BBC News Brasil
+
+Uma peça de arte digital NFT (token não fungível) foi acidentalmente vendida por pouco mais de US$ 3.000 (R$ 17 mil) —um centésimo de seu preço de mercado.
+
+As imagens da série Bored Ape Yacht Club têm tiragem limitada de 10 mil peças, cada uma com pequenas variações.
+
+Mas o proprietário do Bored Ape (macaco entediado, em inglês) número 3.547 cometeu um erro de digitação ao listar o item à venda online. O NFT foi imediatamente adquirido por uma conta automatizada —e colocado de volta à venda por quase US$ 250 mil.
+
+O vendedor disse à que pretendia listar o número 3.547 do Bored Ape por 75 ethereum (ETH), a criptomoeda usada para muitas negociações NFT. Mas um "lapso de concentração" —durante uma das muitas negociações que ele lista online todos os dias— o fez digitar "0,75 ETH" (US$ 2.989).
+
+"Eu imediatamente vi o erro, mas ele foi instantaneamente comprado, antes que eu pudesse clicar em 'cancelar' —e assim eu perdi US$ 250 mil", disse ele.
+
+O comprador também pagou taxas muito altas para aumentar a velocidade com que a transação é concluída e garantir que a venda ocorresse quase que instantaneamente.
+
+Em transações bancárias tradicionais, esses erros são geralmente revertidos facilmente se o banco for informado sobre o erro. Mas no mercado de criptografia não regulamentado, geralmente não há como reverter essa venda.
+
+O Bored Ape número 3.547 foi recolocado à venda por US$ 250 mil - Opensea
+
+SÍMIOS ENTEDIADOS
+
+A série de artes digitais The Bored Apes, lançada em abril de 2021, é "gerada programaticamente" -um script de computador mistura e combina uma variedade de cores, designs e acessórios para tornar cada um dos macacos ligeiramente diferente do outro.
+
+Inicialmente vendido por 0,08 ETH cada (US$ 320 nos preços de hoje), eles agora são vendidos por pelo menos 50 ETH (US$ 200 mil).
+
+Muitos proprietários —sejam entusiastas do NFT ou celebridades— usam seus macacos como imagem de perfil no Twitter. Além disso, há benefícios em trazer parte do "clube" —incluindo convites para eventos da comunidade e acesso a conteúdo digital exclusivo.
+
+Mas os críticos de NFT em geral questionam o mercado de arte digital: o que os compradores estão recebendo de fato quando compram arte não física? O "certificado de propriedade" da arte armazenado no blockchain —a mesma tecnologia que sustenta as criptomoedas— vale o preço que é pago pela arte? Os NFT são uma bolha especulativa que deve estourar em breve?
+
+A tecnologia também usa muita energia —devido à forma como as transações são verificadas por computação de alta potência— levando a críticas de que a indústria é ruim para o meio ambiente.

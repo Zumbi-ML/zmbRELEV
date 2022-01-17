@@ -1,0 +1,36 @@
+https://einvestidor.estadao.com.br/colunas/marilia-fontes/tesouro-selic-pode-ter-retorno-negativo/
+O Tesouro Direto possui três tipos diferentes de títulos. Cada um desses títulos funciona de uma maneira e é utilizado para um propósito na carteira de um investidor.
+
+Leia também
+
+Os títulos prefixados são aqueles nos quais fixamos o valor futuro dele. A cada dia o mercado negocia a taxa justa para o período de vencimento. E cada taxa resulta em um valor presente diferente.
+
+Assim, quando as taxas de mercado para um certo vencimento sobem, o preço daquele título cai (para que possa render mais e chegar na nova rentabilidade justa) podendo trazer prejuízos para o detentor do título.
+
+Já o Tesouro Selic é amplamente utilizado como reserva de emergência justamente por não sofrer marcação a mercado. No título pós-fixado nós não fixamos nenhum valor futuro dele. E cada dia atualizamos o valor investido por um indexador, no caso a Selic. Se a Selic subir, o título renderá mais. Se a Selic cair, o título renderá menos. Mas o retorno sempre será positivo, contanto que a taxa básica de juros seja positiva.
+
+O mercado pode subir muito as taxas negociadas para os prefixados, e isso não irá alterar em nada o preço dos títulos pós-fixados.
+
+É como em um CDB ou na Poupança. Você sempre tem no dia seguinte um valor maior que no dia anterior.
+
+Porém, muitos investidores não sabem, mas é sim possível ter alterações no valor do Tesouro Selic, e fazer inclusive que ele tenha retorno negativo em determinados momentos do tempo. Não é comum isso acontecer, mas em momentos de crise forte, como a pandemia em 2020, isso de fato aconteceu.
+
+Se você já comprou um Tesouro Selic no Tesouro Direto teve ter percebido que junto com a taxa Selic eles colocam mais outra pequena taxa. Um vencimento 2024, por exemplo, é negociado hoje a Selic + 0,10%.
+
+Essa taxa de 0,10% se soma a rentabilidade da taxa Selic, e ela varia de acordo com as condições de oferta e demanda desses títulos. Se tivermos muita demanda por pós-fixados, essa taxa começa a cair, podendo inclusive ser levemente negativa. Se a demanda cai muito, essa taxinha sobe para estimular compradores.
+
+A variação dessa taxa provoca pequenas oscilações de preço no papel (ágio e deságio) que podem em determinas momentos, e por curtos períodos representarem um prejuízo.
+
+Em 2020, por exemplo, o Tesouro Selic 2027 começou o ano negociado a Selic + 0,02%. Após a crise as taxas subirem bem para Selic + 0,40%, por falta de demanda. Essa alta provocou um prejuízo de 1,3% para o detentor do título.
+
+Hoje, essa taxa já caiu para Selic + 0,24%, e quem comprou o título em 2020 já está rendendo 95% da Selic em 2 anos. Ou seja, o aumento de taxas de 0,02% para 0,24% “custou” o equivalente a 5% da taxa Selic em 2 anos.
+
+É bem pouco. E ao longo dos anos não vai fazer a menor diferença. Mas é importante que o leitor saiba que isso pode sim acontecer.
+
+Caso queira um título que não tenha oscilação de preço em hipótese alguma, o mais recomendado seria o CDB de banco seguro a 100% do CDI. Os CDBs não sofrem marcação a mercado nem tem ágio ou deságio. Portanto, não há risco nem de pequenas oscilações.
+
+Apenas tenha em mente que precisa ser de um banco muito seguro para valer a pena. Afinal, bancos são muito mais arriscados que o governo. E não queremos subir muito o risco de crédito em investimentos conservadores deste tipo.
+
+Invista em oportunidades que combinam com seus objetivos. Abra sua conta na Ágora Investimentos
+
+Nossos editores indicam estes conteúdos para você investir cada vez melhor

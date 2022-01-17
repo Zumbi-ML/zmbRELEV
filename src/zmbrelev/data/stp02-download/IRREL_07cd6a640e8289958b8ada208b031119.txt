@@ -1,0 +1,24 @@
+https://link.estadao.com.br/noticias/empresas,procon-sp-multa-facebook-em-mais-de-r-11-mi-por-apagao-nas-redes-sociais,70003918465
+*Atualizado às 11h32
+
+Dado Ruvic/Reuters Aplicativos do Facebook, incluindo WhatsApp e Instagram, 'sumiram' da internet por 7 horas
+
+Depois de analisar o caso do apagão do Facebook em outubro, o Procon-SP, órgão de defesa do consumidor, aplicou uma multa de R$ 11.286.557,54 à empresa por deixar mais de 91 mil consumidores sem acesso à rede social em 4 de outubro. A pane, que durou mais de 7 horas, foi causada por uma falha no servidor da empresa em Menlo Park, Califórnia.
+
+Durante o apagão, mais de 91 mil consumidores ficaram sem acesso ao Facebook, mais de 90 mil no Instagram e cerca de 156 mil no WhatsApp, informou o Procon-SP. Na mesma semana da ocorrência, o órgão já havia notificado a empresa de Mark Zuckerberg e indicou que a companhia explicasse os motivos da pane. O Facebook tem 15 dias úteis para recorrer da multa e apresentar defesa em relação ao caso.
+
+“Houve clara falha na prestação do serviço, prejudicando milhões de consumidores no Brasil e no mundo. Embora o serviço não seja cobrado, a empresa lucra com os usuários, logo, há relação de consumo”, afirma Fernando Capez, diretor executivo do Procon-SP.
+
+Além disso, o Procon-SP identificou potenciais prejuízos aos consumidores em cláusulas da política de uso das redes sociais da empresa. Segundo o órgão, cláusulas "abusivas", como a alteração de itens na política de privacidade, por exemplo, não estão em conformidade com o artigo 51 do Código de Defesa do Consumidor. O Procon-SP não informou se vai notificar o Facebook a respeito das violações encontradas.
+
+Blackout
+
+Durante a pane, Zuckerberg teve uma perda estimada de US$ 5,9 bilhões em sua fortuna pessoal. No momento da pane nos aplicativos da empresa, Antigone Davis, chefe de segurança do Facebook, estava em uma entrevista ao vivo para o canal americano CNBC. A executiva estava participando de um programa para falar sobre as pesquisas internas da companhia, que foram vazadas ao longo das últimas semanas, e defender os algoritmos que regiam as plataformas.
+
+O problema que começou por volta das 12h20 do dia 4 de outubro foi relatado por meio de plataformas como o Twitter. De acordo com o site Down Detector, conhecido por apontar falhas em serviços na internet, o problema não ficou restrito ao Brasil: houve relatos de instabilidade em diversas regiões do planeta, incluindo América Latina e Europa.
+
+Santosh Janardhan, vice-presidente de engenharia e infraestrutura do Facebook, afirmou, posteriormente, que a interrupção foi causada pelo sistema que gerencia a estrutura de “backbone” da rede social, que é uma espécie de espinha dorsal de comunicação do Facebook com a internet do mundo todo.
+
+“O backbone é a rede que o Facebook construiu para conectar todas as nossas instalações de computação, que consistem em dezenas de milhares de quilômetros de cabos de fibra óptica cruzando o globo e conectando todos os nossos centros de dados”, explicou Janardhan. O executivo afirmou que houve uma falha em uma ferramenta de auditoria, que tem como objetivo evitar erros de comandos nessas comunicações computacionais.
+
+“Durante um trabalho de manutenção de rotina, um comando foi emitido com a intenção de avaliar a disponibilidade da capacidade global de backbone, que involuntariamente derrubou todas as conexões em nossa rede”, afirmou o executivo.

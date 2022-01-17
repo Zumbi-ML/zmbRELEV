@@ -1,0 +1,26 @@
+https://saude.estadao.com.br/noticias/geral,estudo-da-fiocruz-reforca-que-reinfeccao-e-possivel-e-pode-ser-grave,70003561880
+RIO - Casos assintomáticos e mesmo brandos de covid-19 não oferecem imunização contra a doença, segundo um novo estudo da Fiocruz divulgado nesta quarta-feira. Publicado na Social Science Research Network, o trabalho reforça a ideia de que a reinfecção pelo SarsCov2 é possível e pode resultar em um quadro grave da doença. Ou seja, a população está ainda mais vulnerável à pandemia do que se imaginava.
+
+O principal autor do estudo, o virologista Thiago Moreno, disse que apressou ao máximo a divulgação dos resultados por uma questão de responsabilidade social.
+
+Leia Também Médico defende pesquisa de vacinas contra covid-19 e alerta para risco nas festas
+
+“Sinto como uma questão de responsabilidade social divulgar o quanto antes”, afirmou Moreno, lembrando que estamos às vésperas do período de festas e viagens de férias. “Se você já teve uma infecção assintomática ou branda, isso não significa que não vá ter de novo, nem que será branda novamente.”
+
+O estudo foi feito no Centro de Desenvolvimento Tecnológico em Saúde (CDTS/Fiocruz) a partir do sequenciamento de genótipos do novo coronavírus. O trabalho acompanhou semanalmente quatro indivíduos que não apresentaram nenhum sintoma desde o início da pandemia, em março. Foram feitos testes sorológicos e RT-PCR em todos os indivíduos acompanhados e todos testaram positivo, embora fossem assintomáticos.
+
+No sequenciamento dos genomas, os pesquisadores confirmaram que uma pessoa contraiu o vírus associado à um genoma importado e outra apresentou uma estrutura viral associada ao genoma que já circulava pelo Rio de Janeiro.
+
+De acordo com Moreno, um dos voluntários procurou novamente o grupo de pesquisa no final de maio, alegando sinais e sintomas mais fortes de covid-19, como febre, e perda de paladar e olfato.
+
+“Quando fizemos o RT-PCR mais uma vez, os quatro indivíduos testaram positivo. O que observamos foi uma reinfecção dentro do ambiente familiar”, explicou o pesquisador. “Contudo, a pessoa que apresentou em março o genótipo associado a casos importados agora estava infectada por uma outra cepa. O outro indivíduo, que tinha sido infectado com o genótipo que circulava no Rio continuava com o mesmo genótipo, mas ele já tinha algumas mutações acumuladas, o que permitiu a interpretação de que era uma reinfecção e não uma persistência da infecção.”
+
+Para o virologista, o trabalho reforçou a noção de que a reinfecção é possível – algo comum entre os vírus respiratórios. Segundo ele, a primeira exposição ao vírus não garantiu uma memória imunológica do organismo.
+
+“Pessoas com casos assintomáticos ou muito brandos, se forem reexpostas ao vírus, poderão ter novamente uma infecção”, disse. “Desta vez, pode ser uma infecção mais severa do que a primeira, como demonstrado na pesquisa.”
+
+Quando o organismo é invadido por algum microorganismo estranho, ele, incialmente, lança uma resposta genérica para combater o invasor. Por não ser específica, essa resposta não gera uma memória da invasão, embora consiga derrotar as formas mais brandas da infecção. Nesses casos, não há imunização.
+
+Nas formas mais graves e mais longas da doença é diferente. Há a formação de uma resposta adaptativa específica para combater aquele invasor. Essa resposta é que forma a imunização.
+
+Um outro problema, segundo Moreno, é que em alguns casos pode até acontecer uma imunização, mas que não é duradoura – é o que ocorre no caso do vírus influenza, por exemplo. “Os dois mecanismos podem estar acontecendo em paralelo”, explicou.

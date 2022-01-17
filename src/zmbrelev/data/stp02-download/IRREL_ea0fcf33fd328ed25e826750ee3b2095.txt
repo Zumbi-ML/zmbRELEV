@@ -1,0 +1,206 @@
+https://www1.folha.uol.com.br/ciencia/2021/12/telescopio-james-webb-o-aparelho-de-us-10-bi-que-vai-buscar-as-primeiras-luzes-do-universo.shtml
+BBC News Brasil
+
+Escuridão. Total e completa. Poucos de nós conseguem vivenciar isso.
+
+No fundo de uma caverna, talvez; ou quem sabe em um porão quando a luz é apagada. Mas geralmente há um fraco brilho de luz vindo de algum lugar. O próprio céu noturno nunca parece realmente preto, até porque geralmente há uma ou duas estrelas brilhando à distância.
+
+
+
+Por isso, é difícil imaginar uma época em que tudo o que existia era escuridão, quando você poderia viajar em qualquer direção por milhões de anos e ainda assim não ver absolutamente nada.
+
+Telescópio James Webb: o aparelho de US$ 10 bi que vai buscar as primeiras luzes do universo - ESO/P.Horálek
+
+Mas esta é a história que os cientistas nos contam sobre a "Idade das Trevas" cósmica, que terminou quando as primeiras estrelas se acenderam. E, muito em breve, eles pretendem nos mostrar como era aquela época, ou melhor, como ela acabou —como o cosmos finalmente se encheu de luz.
+
+Eles vão fazer isso usando o maior telescópio já lançado no espaço: o Telescópio Espacial James Webb (JWST, na sigla em inglês).
+
+Com lançamento previsto para os próximos dias, o JWST tem a missão de olhar mais fundo no Universo — e, portanto, mais para trás no tempo— do que o lendário Telescópio Espacial Hubble, do qual será o sucessor.
+
+Simplesmente hipnotizante: o enorme espelho do Webb é feito de berílio revestido de ouro - NASA
+
+Equipado com um espelho de 6,5 metros de largura e quatro instrumentos supersensíveis, o Webb ficará olhando por dias para um ponto restrito no céu a fim de detectar a luz que viajou através da imensidão do espaço por mais de 13,5 bilhões de anos.
+
+"Serão apenas pequenas manchas vermelhas", diz John Mather, cientista sênior do projeto JWST e ganhador do Prêmio Nobel.
+
+"Achamos que deve haver estrelas, galáxias ou buracos negros, quem sabe, se formando 100 milhões de anos após o Big Bang. Não haverá muitos para serem encontrados naquela época, mas o telescópio Webb é capaz de vê-los, se eles estiverem lá e tivermos sorte", afirmou o pesquisador da Nasa, a agência espacial americana, em uma edição especial do programa Discovery do BBC World Service.
+
+É surpreendente que você ainda seja capaz de testemunhar tal coisa. Mas esta é a consequência de a luz ter uma velocidade finita em um cosmos vasto e em expansão.
+
+Se você continuar sondando cada vez mais fundo, deve acabar conseguindo recuperar a luz das estrelas pioneiras à medida que elas se agruparam nas primeiras galáxias.
+
+
+
+Mas com que propósito? Por que passar dez anos concebendo e outros 20 anos construindo uma máquina de US$ 10 bilhões para detectar algumas manchas vermelhas fracas no céu?
+
+Basicamente, tudo isso se resume à questão mais fundamental de todas: de onde viemos?
+
+Quando o Universo foi formado no Big Bang, continha apenas hidrogênio, hélio e um punhado de lítio. Nada mais.
+
+Todos os elementos químicos da Tabela Periódica mais pesados ​​do que estes três tiveram que ser formados nas estrelas.
+
+Todo o carbono que constitui os seres vivos; todo o nitrogênio na atmosfera da Terra; todo o silício nas rochas —todos estes átomos tiveram que ser "fabricados" nas reações nucleares que fazem as estrelas brilhar e nas poderosas explosões que acabam com sua existência.
+
+Só estamos aqui porque as primeiras estrelas e suas descendentes semearam o Universo com o material para fazer as coisas.
+
+"A missão do Webb é sobre a formação de toda semelhança; é o argumento do 'somos todos feitos de poeira estelar'", pondera Rebecca Bowler, astrônoma da Universidade de Oxford, no Reino Unido, que é membro da equipe do instrumento NIRSpec (sigla em inglês para Espectrógrafo de infravermelho próximo) do Webb.
+
+"É sobre a formação do primeiro átomo de carbono de todos os tempos. É absolutamente incrível para mim que a gente possa realmente observar esse processo em andamento."
+
+Não sabemos muito sobre as primeiras estrelas. Podemos aplicar as leis da física em modelos de computador e executá-los para ter uma noção do que pode ser possível. E parece fantástico.
+
+"As estimativas variam de uma ordem de 100 a 1.000 vezes a massa do nosso Sol", afirma Marcia Rieke, a principal pesquisadora do instrumento NIRCam (câmera de infravermelho próximo) do Webb.
+
+"E, na verdade, todas as estrelas seguem a regra de que o período de tempo em que podem existir como uma estrela é inversamente proporcional à sua massa —ou seja, quanto mais massiva uma estrela, mais rápido ela consome seu combustível. E assim essas estrelas primitivas podem ter durado apenas no máximo um milhão de anos ou algo assim."
+
+Nosso próprio Sol parece bastante tímido em comparação a elas. Já queimou por quase 5 bilhões de anos e provavelmente continuará queimando por mais cinco.
+
+A ênfase na busca pela primeira luz das estrelas faz Webb soar como uma "flauta de uma nota só". Na verdade, é tudo menos isso.
+
+Ele vai observar quase tudo que há para ver além da Terra —desde as luas geladas e cometas em nosso próprio Sistema Solar até os buracos negros colossais que parecem residir no centro de todas as galáxias. E deve ser particularmente hábil para estudar planetas ao redor de outros sóis.
+
+O Webb foi sintonizado, no entanto, para olhar para todos os seus alvos de uma maneira muito particular... em infravermelho.
+
+O Hubble foi projetado para ser sensível à luz predominantemente em comprimentos de onda ópticos ou visíveis. É o mesmo tipo de luz que detectamos com nossos olhos.
+
+O Webb, por outro lado, está configurado especificamente para detectar comprimentos de onda mais longos, que, embora invisíveis aos nossos olhos, estão exatamente no modo em que o brilho dos objetos mais distantes do Universo vai aparecer.
+
+"A luz das estrelas distantes é esticada pela expansão do Universo e muda para a região infravermelha do espectro. Chamamos isso de redshift (desvio para o vermelho)", explica Richard Ellis, astrônomo da University College London (UCL), no Reino Unido, que está ansioso para explorar o fim da "Idade das Trevas".
+
+"O fator limitante que temos com o Hubble, por exemplo, é que ele não chega longe o suficiente no infravermelho para detectar o sinal da luz das estrelas que queremos. Também não é um telescópio particularmente grande. Tem sido uma instalação pioneira, sem dúvida. Fotos incríveis. Mas o diâmetro de seu espelho é de apenas 2,4 metros, e a potência de um telescópio é dimensionada pelo quadrado do diâmetro do espelho. E é aí que entra o JWST. "
+
+
+
+Foi o astrônomo William Herschel, do século 18, quem descobriu o infravermelho. Ele também revolucionou a produção de espelhos telescópicos.
+
+Suas máquinas de polimento à manivela conseguiam chegar a uma superfície refletiva superlisa em discos feitos a partir de uma liga de estanho e cobre.
+
+Herschel teria apreciado a inovação usada na produção dos espelhos do Webb.
+
+Eles são feitos de metal berílio, que é leve e mantém sua forma em temperaturas muito baixas. E possuem um revestimento em ouro. É uma camada extremamente fina, com apenas algumas centenas de átomos de espessura, mas essa adição transforma os espelhos em refletores quase perfeitos no infravermelho.
+
+Noventa e oito por cento da luz incidente é refletida, garantindo que a emissão de estrelas distantes sofra perdas mínimas quando chega aos instrumentos do Webb.
+
+
+
+Qualquer pessoa que tenha visto o espelho principal segmentado de 6,5 metros do telescópio atestará sua qualidade hipnotizante. Mesmo aqueles que trabalharam nele por duas décadas nunca se cansam de sua beleza.
+
+"Houve um tempo em que o espelho estava apontado para baixo e eu tinha que passar por baixo dele para fazer uma inspeção", lembra Lee Feinberg da Nasa, que liderou a equipe responsável pelos espelhos do Webb.
+
+"Então, lá estava eu ​​com meu macacão de segurança, olhando para todas aquelas superfícies de ouro e me vendo sendo refletido de volta. Foi realmente incrível —todas aquelas superfícies focando em mim. Tive uma sensação incrível de energia estando no centro daquilo tudo."
+
+O Hubble notoriamente teve um grande problema com seu espelho principal.
+
+Quando o telescópio entrou em órbita em 1990, os cientistas perceberam que o refletor não havia sido polido corretamente. Suas imagens iniciais das galáxias eram borradas.
+
+Só depois que os astronautas conseguiram instalar lentes corretivas que o Hubble começou a ver o cosmos com clareza. E talvez não sem razão, é por causa desta experiência que todos questionam se o espelho do Webb tem garantia de perfeição.
+
+Agosto de 2017 foi o mês em que o furacão Harvey devastou o Texas, despejando surpreendentes 127 bilhões de toneladas de água de chuva sobre o Estado americano.
+
+É digno de nota porque no meio daquele dilúvio, o Webb estava em Houston, no Centro Espacial Johnson da Nasa, passando por testes cruciais que provariam que sua óptica estava apta a ir para o espaço.
+
+Os engenheiros haviam colocado o telescópio no simulador espacial que foi usado na década de 1960 para inspecionar os equipamentos da Apollo e até mesmo astronautas com trajes espaciais.
+
+A Câmara A, como é conhecido o recipiente a vácuo, tem um volume gigantesco e foi capaz de engolir o telescópio inteiro (sem a proteção solar).
+
+O objetivo do teste de três meses era levar o Webb à sua temperatura operacional no espaço de pouco menos de -233° C, para ver se todos os seus espelhos focalizariam conforme o planejado.
+
+Também daria às equipes que estavam trabalhando nos quatro instrumentos do Webb a chance de ver como seus sistemas funcionavam numa simulação das condições fora deste planeta.
+
+A câmara da missão Apollo deu ao Webb uma amostra de como será operar no espaço - NASA/Chris Gunn
+
+Por causa do furacão Harvey, os consoles de computador que dialogavam com o telescópio Webb dentro da Câmara A, às vezes, precisavam ser cobertos por uma lona de plástico para protegê-los do risco de pingar água do teto.
+
+Mas escondido atrás das espessas paredes do módulo a vácuo, o Webb em si estava seguro e demonstrando que não tinha nenhum "problema estilo Hubble".
+
+"Os segmentos no espelho principal possuem atuadores atrás deles que nos permitem movê-los, até mesmo mudar sua curvatura", explica Lee Feinberg.
+
+"Quando implantados pela primeira vez no espaço, esses segmentos ficarão desalinhados. Mas todos esses atuadores nos levarão de um desalinhamento de milímetros para apenas nanômetros. Um fator de melhoria de um milhão."
+
+Esses atuadores farão com que os 18 segmentos se comportem como se fossem um único espelho monolítico.
+
+"Isso é o que demonstramos na câmara de teste. Sabemos que quando focarmos em uma estrela no espaço pela primeira vez, veremos 18 pontos de luz diferentes porque os 18 segmentos de espelho individuais não estarão alinhados. Mas então ajustaremos os espelhos para reunir todos os pontos e formar uma única estrela sem aberrações e boa para operações normais. Sabemos que o Webb funciona", acrescenta Begoña Vila, engenheira de sistemas de instrumentos da Nasa.
+
+Gillian Wright está carregando uma caixa de Tupperware.
+
+"Este não é um velho Tupperware; é um Tupperware qualificado para uso espacial. Ele atende a todos os padrões internacionais para manter as coisas perfeitamente limpas por anos", diz a diretora do Centro de Tecnologia de Astronomia do Reino Unido.
+
+Se você quer entender o quão brilhante é o telescópio Webb, mas também por que sua construção demorou tanto tempo —cerca de 20 anos apenas na fase de construção—, você precisa dar uma olhada na caixa de plástico de Gillian.
+
+Ela contém uma "fatia de espelho" sobressalente do instrumento infravermelho médio (MIRI, na sigla em inglês) que ela e seus colegas construíram para o telescópio.
+
+Mais ou menos do tamanho de uma moeda britânica de 50 centavos, parece um mini acordeão musical feito para uma boneca. O pequeno espelho —mais uma vez revestido de ouro— contém uma série de "degraus" inclinados.
+
+O arranjo permite que o espelho adquira uma imagem do céu, mas também desmembre a luz de, digamos, uma galáxia ou a borda de um buraco negro, e na sequência envie essa luz para um espectrógrafo. Este dispositivo irá revelar a química, temperatura, densidade e velocidade dos alvos em estudo.
+
+"Não apenas em um ponto da imagem, mas em todos os pontos da imagem, todos ao mesmo tempo. Você vai de 2D para 3D —para o que chamamos de cubo de dados", diz ela.
+
+James E Webb foi uma figura chave na Nasa, encarregada de implementar o projeto Apollo para levar astronautas à Lua - NASA
+
+Isso já havia sido feito na astronomia a partir do solo, mas era uma novidade para um telescópio espacial. Além do mais, o nível de precisão de engenharia exigido era extremamente desafiador.
+
+Os degraus tinham que ser fabricados com muito cuidado para que tivessem arestas extremamente afiadas, caso contrário, a luz de diferentes comprimentos de onda iria esvair através do espelho, contaminando os dados.
+
+Demorou um ano para convencer as agências espaciais de que os espelhos do MIRI atenderiam às especificações. E a questão é a seguinte: este era apenas um pequeno componente de uma parte de um telescópio gigante.
+
+Quando eles montaram o Webb, cada um desses elementos teve que ser testado e, em seguida, testado novamente quando unido a outro elemento. Toda a estrutura foi construída como uma boneca russa.
+
+"Por ser um observatório tão grande e complexo, e também por ter que funcionar em temperaturas criogênicas, você não pode simplesmente juntar tudo de uma vez e depois testar. Você coloca tudo em pacotes selados, isolados termicamente, começando com as menores peças em diante, testando em cada estágio. E então, conforme tudo fica cada vez maior, torna-se praticamente impossível voltar porque você encontrou um problema em um detector, digamos", explica Mark Clampin, ex-cientista de projeto da Nasa.
+
+Imagine se no final da construção do telescópio eles percebessem que um dos espelhos do MIRI estava com defeito.
+
+Desmontar o observatório multibilionário para chegar à parte inferior seria o pior de todos os pesadelos.
+
+O James Webb é tão grande que precisa ser dobrado para caber no nariz de seu foguete de lançamento - NASA/Chris Gunn
+
+Mark McCaughrean é um astrônomo britânico especializado em infravermelho que trabalhou no projeto por 23 anos como consultor da Agência Espacial Europeia.
+
+Ele já tinha visto fragmentos do Webb antes, mas, poucas semanas antes do lançamento, que será realizado do porto espacial de Kourou, na Guiana Francesa, ele teve a chance de examinar o observatório concluído pela primeira vez.
+
+"Não tenho ideia do que dizer. É surpreendente." Há emoção na sua voz.
+
+Os espelhos e cobertores de isolamento são um resplendor de ouro e prata. A última cor tem um leve tom púrpura. Estamos vendo o Webb em sua configuração dobrada, mas ainda assim é do tamanho de um ônibus de dois andares.
+
+Este "ônibus" precisou ser dobrado para caber perfeitamente no cone do nariz de seu foguete de lançamento Ariane.
+
+"Tem uma dimensão incrível", comenta Mark. "Quando se desdobrar no espaço —será um pássaro voando livremente no espaço, isso seria uma coisa de se ver!"
+
+O Webb teve que lutar contra os pessimistas durante todo o seu desenvolvimento. "É muito complexo", diziam. E se você considerar a sequência de implementações que o telescópio precisa fazer para começar suas observações do cosmos, é meio assustador.
+
+Os engenheiros se referem a "pontos únicos de falhas" para descrever as ações que, se não ocorrerem na hora e na ordem certa, correm o risco de inviabilizar toda a empreitada. O Webb precisa superar 344 destes obstáculos decisivos.
+
+Algumas ações devem ser muito simples, como a implantação do painel solar e da antena de rádio nos minutos logo após o lançamento.
+
+Mesmo a abertura das asas do espelho principal deve ser considerada uma operação bastante padrão.
+
+Mas as ações que se concentraram em torno do desdobramento do escudo solar, do tamanho de uma quadra de tênis, que manterá o Webb fresco e protegerá sua visão do brilho do Sol —é outra história.
+
+"Alguns dos principais equipamentos incluem 140 mecanismos de liberação, cerca de 70 conjuntos de dobradiças, oito motores de implantação; temos rolamentos, molas, engrenagens; cerca de 400 polias são necessárias e 90 cabos, totalizando 400 m", diz Krystal Puga, da fabricante aeroespacial Northrop Grumman.
+
+"Para aperfeiçoar a sequência, realizamos vários testes de instalação ao longo de vários anos em modelos pequenos e grandes. Praticamos não apenas a implementação, mas também o processo de acondicionamento. Isso nos dá a confiança de que o Webb será implantado com sucesso."
+
+Para quem não esteve diretamente envolvido no projeto, todo o processo de desdobramento parece assustador. E se houver algum contratempo com os cordões que puxam as membranas superfinas ou, pior ainda, se eles se romperem?
+
+John Mather é aquela voz tranquilizadora. Seus muitos anos no projeto Webb o levaram a uma posição filosófica.
+
+"Estou confiante", diz ele.
+
+"No entanto, também estou ciente de que não importa quão bom seja o plano que temos —e temos um plano muito bom—, coisas ruins ainda podem acontecer. Mas minha opinião não tem efeito sobre o hardware. E, consequentemente, minha preocupação também não tem efeito sobre o hardware. Então, eu geralmente não me preocupo."
+
+Dado tudo o que o Hubble nos mostrou, o antigo telescópio agora parece um investimento bastante sólido - NASA/ESA
+
+Deixei este assunto para o final, mas não posso deixar de comentar. O custo.
+
+O valor que todos citam, de US$ 10 bilhões, abrange o período de 20 anos de construção, o lançamento e cinco anos de operações no espaço.
+
+O número em si é de chorar. Mas vale lembrar que o Hubble também foi muito caro. O lendário observatório havia custado mais de US$ 7 bilhões (em dólares de 2021) na época em que foi lançado e reparado. Agora seu custo deve ter quase dobrado.
+
+Mas, considerando tudo o que o Hubble nos mostrou sobre o Universo e nosso lugar nele, o velho telescópio parece ter um bom custo-benefício.
+
+Para os cidadãos europeus, o custo do Webb pode ser comparado ao preço de uma xícara de café barato - NASA/Chris Gunn
+
+Se o Webb for bem-sucedido em revelar nossas origens atômicas, quem continuará a reclamar dos custos?
+
+"No valor nominal, há muitos zeros, e só a Europa gastou 700 milhões de euros (US$ 800 milhões) no James Webb", diz o ex-gerente de projetos da Agência Espacial Europeia Peter Jensen.
+
+"Mas quando você olha para isso como um custo por habitante na Europa, se resume a uma xícara de café barato em um café barato, tomado por um período de 20 anos."

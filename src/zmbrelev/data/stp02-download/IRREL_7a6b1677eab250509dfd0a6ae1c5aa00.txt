@@ -1,0 +1,72 @@
+https://einvestidor.estadao.com.br/colunas/marco-saravalle/o-que-faz-analista-equity-research/
+Por definição, um analista de equity research é responsável por estudar e analisar detalhadamente as informações de uma empresa e do seu negócio como um todo. O intuito é dar uma recomendação sobre um determinado ativo.
+
+Leia também
+
+Vamos supor que um investidor deseja comprar ações da empresa SaraInvest, mas não possui nenhuma informação. Aos se deparar com os relatórios contábeis, pouco entende, quem dirá o modelo de negócios e as perspectivas para o setor.
+
+A fim de simplificar sua vida, o potencial acionista contrata um profissional de equity research que analisará a companhia, procurando explicitar se é um bom investimento ou não. Ao desenvolver sua pesquisa, o analista enviará um relatório abordando as vantagens e desvantagens do investimento, expressando sua opinião da realização ou não.
+
+Sobre a rotina
+
+Basicamente, a rotina da área consiste em: pesquisar, fazer relatório e projetar. Na primeira fase, o analista irá estudar uma empresa específica, seus concorrentes, fornecedores e a indústria em geral para formar uma opinião. Essas informações são obtidas por meio dos relatórios financeiros da empresa, da análise de estudiosos do mercado e do panorama econômico atual.
+
+Quando a pesquisa é concluída, é necessário compilar as informações mais importantes para o investidor, construindo um relatório, que é emitido para seus clientes, seja de buy-side ou de sell-side.
+
+Por fim, na projeção, o analista criará modelos projetando os resultados e as finanças da companhia, baseando-se nas conclusões que chegou ao estudar a empresa.
+
+O principal objetivo é estimar a taxa de crescimento e avaliar se faz algum sentido realizar o investimento dada as premissas adotadas no momento. Vale destacar que o analista deve sempre estar atento ao noticiário para acompanhar as movimentações no mundo empresarial para ter uma opinião atualizada e de alta qualidade.
+
+Dois lados, duas moedas: Buy-side e Sell-side
+
+Dentro de equity research, existe demanda oriunda de diferentes classes de clientes, o que torna seus objetivos distintos. Assim, a área é dividida entre buy-side e sell-side.
+
+No sell-side, o objetivo é a venda dos relatórios para clientes externos. Ou seja, nesse caso, a informação é uma recomendação direta de compra, manutenção do investimento ou venda. Portanto, os interessados pagam diretamente pelo serviço ao prestador, que não é responsável pelo valor e retorno do investimento.
+
+Já o buy-side, é a parte que se refere, principalmente, à indústria de Asset Management – empresas que gerenciam ativos (capital) em nome dos outros. Os gestores necessitam de pessoas que façam pesquisa e uma análise minuciosa para escolha dos ativos que irão compor a carteira. Ou seja, no buy-side, os analistas não vendem recomendação, mas prestam serviço de suporte aos gestores.
+
+Nem tudo é sobre números
+
+Muitos acreditam que a principal função do analista é fornecer um preço-alvo e, conforme o que estiver precificado no mercado, dar a recomendação sobre o ativo.
+
+Com isso, o valuation surge como uma ferramenta importante nesse processo. O arcabouço teórico sobre esse tópico é muito abrangente, sendo a metodologia de Fluxo de Caixa Descontado (Discounted Cash Flow – DCF) a mais utilizada no mercado. Ou seja, a arte de precificar envolve uma dose de complexidade e subjetividade.
+
+Pense no seguinte exercício retirado do livro Narrative and Numbers do professor Damodaran: vamos fazer o valuation da Ferrari, a lendária empresa de luxo automobilístico, no momento de seu IPO.
+
+Projetaremos a receita, lucro operacional e fluxo de caixa, além das premissas chaves apresentadas em números. Eu te digo que espero que as receitas cresçam 4% ao ano pelos próximos 5 anos, antes de cair para a taxa de crescimento econômica (PIB); projeto que a margem operacional líquida será de 18,2%; e que a companhia será capaz de gerar $1,42 para cada $1 investido no negócio. Se você não é uma pessoa que se dá bem com números, provavelmente já perdeu a linha de raciocínio e é improvável que os grave por muito tempo.
+
+Considere uma alternativa. Eu poderia te dizer que vejo a Ferrari como uma fabricante de automóveis de luxo que consegue cobrar preços extremamente altos pelos seus carros e ganha uma grande margem líquida porque mantém seus carros escassos e disponíveis apenas para uma classe exclusiva dos muitos ricos. Essa história é mais provável de ser lembrada, mas sem muitas especificidades. Ela te diz pouco o quanto você deveria estar disposto a pagar por essa empresa.
+
+Existe uma terceira opção, em que atrelamos o baixo crescimento de receita (4%) à necessidade de manutenção da exclusividade da Ferrari. Essa mesma exclusividade permite altas margens líquidas e manutenção estável de lucros ao longo tempo, dado que aqueles que compram um carro da Ferrari são ricos, não sendo afetados pelas oscilações econômicas. Ao relacionar os números com a história da companhia, não estou apenas apresentado meus números, mas também um fórum para você criar sua própria história de Ferrari e seus próprios números.
+
+Como ser humano, temos facilidade de lembrar mais das histórias do que dos números, mas storytelling pode nos levar à ilha da fantasia rapidamente. Números são agentes disciplinadores em nossas avaliações, mas sem a história por trás, podem se tornar armas de intimidação e viés. A solução é simples. É necessário ter tanto o lado narrativo quanto o lado numérico na construção de um case. Assim, não estamos falando apenas de valuation, afinal empresas são pautadas em modelos de negócios, executados por pessoas. Acredite, muitos analistas falham nesse requisito.
+
+Mas por que gastar sola de sapato?
+
+Para a construção da história, quais fontes de informações temos disponíveis? Hoje, o analista pode procurar vídeos sobre a companhia e setor, conversar com especialistas, mas, mesmo assim, os principais recursos são as informações disponibilizadas no site de Relação com Investidores (RI) da empresa.
+
+Agora, imagine que você é o dono de uma locadora de carro de capital aberto. É sempre de seu interesse que a sua empresa seja precificada no maior valor possível pelo mercado.
+
+Nesse sentido, as informações no site de RI vão sempre buscar mostrar o melhor lado da locadora. Por exemplo, você pode divulgar que possui a maior frota de carros alugados do Brasil, mas não divulga que ela não é a mais rentável e que em breve terá que renová-la, exigindo grande quantidade de caixa que você não possui. Além disso, seu concorrente presta um serviço melhor, com atendimento personalizado e mais eficiente.
+
+Como dito, o storytelling pode nos iludir. Caso o analista não gaste sola de sapato, teste o seu serviço e dos concorrentes, fique preso apenas à planilha e números, haverá assimetria de informação que pode acabar prejudicando a recomendação.
+
+Analisando presencialmente, diversas conclusões podem ser tiradas: i) alugando um carro, o analista percebe que está em má condição, indicando a necessidade de renovação das frotas; ii) como os carros não estão em condições ótimas, a locadora cobra um menor aluguel, afetando a rentabilidade; iii) carros mais antigos exigem manutenções mais recorrentes (mais custoso), diminuindo margem; e iv) no exemplo dado, esta seria a maior assimetria: como seu concorrente ainda não aumentou a frota, o market share não mudou, contudo, os números ainda não refletem a tendência do ganho de participação de mercado do seu concorrente em decorrência da melhor prestação de serviço.
+
+Entretanto, principalmente o analista de sell-side, não há esse interesse em avaliar os ativos presencialmente, ficando refém do que o RI conta para ele, atitude tal perigosa.
+
+Lembro-me de uma situação quando ainda era analista da Fator. Estávamos analisando o investimento em Romi, à época ação descontada, os números redondos, valuation apontando um bom upside com risco relativamente baixo. Antes de fazer o investimento, fui visitar as fábricas. Percebi que havia um alto estoque, indicando dificuldade de vendas. Decidi não investir. Decisão acertada, meses depois, os números começaram a refletir a situação dificultosa da empresa e as ações despencaram.
+
+Lucca De Camillis, do time de research da SaraInvest, esteve no Rio de Janeiro gastando sola de sapato para conhecer o novo empreendimento da Multiplan, o ParkJacarepaguá. Se ficasse só no Excel, ia gostar do NOI projetado de R$80 milhões em 5 anos, resultando em um yield de 10%. Ou seja, empreendimento com payout de 13/14 anos – a intenção aqui não é entrar em números.
+
+O grande ponto é: o que está escrito no relatório é factível e verdadeiro? Só gastando sola de sapato para saber. Quando me contava sobre sua visita, ficou impressionado com a arquitetura moderna, poucas lojas vagas, mix de lojas equilibrado e espaçado – não havia uma concentração de lojas de vestuário –, além de um posicionamento estratégico de escada rolante para uma maior circulação. Conforme andava pelos corredores, disse que era perceptível a mudança de ambientação, segundo a característica do setor. Voltou encantado com a excelência do empreendimento. Mais um selo de qualidade Multiplan.
+
+Algumas conclusões
+
+Recentemente, viajei ao Rio de Janeiro e conversei com a Dynamo, uma das gestoras mais tradicionais e rentáveis do mercado brasileiro. A estratégia deles é a mesma há 30 anos: a busca pelo conhecimento marginal. Fiquei impressionado com a quantidade de vezes que repetiam “aqui saímos do Excel e gastamos sola de sapato, é o mais importante para nós!”. No fim, um bom case depende de dois fatores: uma história bem estruturada e números que te impeçam de pagar caro por algo barato.
+
+Por isso, um bom analista não é o que mais domina contabilidade ou valuation – claro que são habilidades importantes e te auxiliam muito no dia a dia –, mas aquele que mais entende o modelo de negócios. Nessa busca pelo conhecimento, conhecer a atividade operacional é de suma importância. Na minha visão, a mais importante.
+
+Invista em oportunidades que combinam com seus objetivos. Abra sua conta na Ágora Investimentos
+
+Nossos editores indicam estes conteúdos para você investir cada vez melhor

@@ -1,0 +1,18 @@
+https://link.estadao.com.br/noticias/geral,o-ceo-do-twitter-sai-nos-devendo-uma,70003915113
+Toby Melville/Reuters Jack Dorsey fundou o Twitter em 2006
+
+Jack Dorsey não é mais o presidente executivo do Twitter. Nenhum executivo de alto escalão de redes sociais falava com a franqueza dele. Sempre reconheceu que seu algoritmo ajuda a promover um ambiente mais agressivo. Será substituído por Parag Agrawal, de 37 anos, até então diretor da tecnologia da companhia desde 2017. É uma escolha que fala muito sobre a visão que o ex-CEO deixa.
+
+Para entender este movimento há uma comparação possível, embora não perfeita. Jack Dorsey se move como Steve Jobs. Quando Jobs deixou a Apple, seu câncer já terminal, deixou no cargo como sucessor o diretor de operações. Tim Cook. A Apple fabrica objetos e o que faz dela eficiente é a capacidade de juntar peças fabricadas em cantos distintos do mundo numa fábrica chinesa que depois exporta os aparelhos para toda parte. A eficiência da logística é o que faz das máquinas excelentes e garante que todos os prazos se cumpram. Jobs compreendeu que o que mantém a Apple de pé e imensamente lucrativa é essa logística. Pôs no comando o executivo responsável por ela.
+
+Ao escolher para o cargo o CTO, Jack está dizendo como compreende o Twitter. É uma empresa que, para funcionar bem, depende de uma bem azeitada área de tecnologia. Ele tem toda razão.
+
+Poucas redes sociais se mantiveram fiéis a sua essência como o Twitter. Agora mesmo, o Instagram deu um cavalo de pau na sua natureza. O que era uma rede que incentivava fotos, hoje incentiva a publicação de vídeos curtos pegando a onda do TikTok. O Twitter, não. Sua alma persiste sendo a de uma rede em que são publicados textos muito curtos. Três frases, quatro, não mais: 280 toques.
+
+Mas o Twitter que Jack pegou, em 2015, tinha problemas sérios de estrutura. Caía a toda hora. Sob seu comando, o sistema deixou os servidores desenhados em casa e foi migrado para a nuvem da Amazon. É trabalho de bastidores que ninguém vê, porém muda tudo. Uma vez estabilizada na nova casa, ficou mais fácil implementar novidades. A primeira foi refazer a plataforma para anunciantes, o que levou a um salto no faturamento.
+
+Desde então, num ritmo acelerado, recursos diferentes vão aparecendo. O que dá certo fica, o que não dá, roda.
+
+A escolha de Parag Agrawal faz todo sentido. A agilidade do Twitter depende de a rede ser estável, baseada numa infraestrutura sólida. Essa foi a principal obra de Jack Dorsey.
+
+O que ele prometeu e não entregou é igualmente grande. O algoritmo do Twitter ajuda a promover ondas de cancelamentos virtuais, pois distribui mais mensagens de ódio. Ajuda a cindir sociedades, ressaltando diferenças e enterrando concordâncias. Está entre os responsáveis por quebrar a política em democracias. Jack havia prometido entregar um algoritmo que incentivasse diálogo. Não o fez. Que Agrawal o faça.

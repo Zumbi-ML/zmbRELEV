@@ -1,0 +1,70 @@
+https://economia.estadao.com.br/noticias/geral,open-banking-o-que-e-como-funciona-e-como-vai-afetar-o-mercado-financeiro,70003362229
+A implementação do open banking, ou sistema financeiro aberto, está dando seus primeiros passos no Brasil. Em junho, o Banco Central (BC) publicou uma circular que detalhou a estrutura de governança que vai gerenciar a implantação do sistema no País. Essa estrutura deve ser formalizada até 15 de julho.
+
+É consenso entre especialistas que o open banking será um grande avanço para o mercado financeiro nacional e vai trazer benefícios para o consumidor, como aumentar a competitividade do setor e permitir que novos tipos de negócio entrem com força no mercado. Isso porque o sistema vai facilitar o compartilhamento de informações financeiras de clientes entre as instituições e, consequentemente, movimentar o setor para oferecer melhores serviços e preços.
+
+Mas o que exatamente é o open banking e como ele vai afetar o mercado financeiro? Entenda abaixo.
+
+O que é o open banking?
+
+A base do conceito de open banking é a mesma estabelecida pela Lei Geral de Proteção de Dados, que define que a pessoa é dona de suas informações pessoais e, portanto, é quem tem o direito de usá-las como preferir. Qualquer serviço que quiser usar esses dados precisa de autorização do titular. E essa regra se aplica também para dados financeiros.
+
+“Alinhado com a Lei Geral de Proteção de Dados, o open banking dará maior autonomia ao cliente no uso de seus dados bancários, facilitando o compartilhamento com outras instituições participantes do ecossistema, autorizadas a funcionar pelo Banco Central”, explica o diretor executivo de Inovação, Produtos e Serviços Bancários da Federação Brasileira de Bancos (Febraban), Leandro Vilain.
+
+“É um sistema que permite uma redução da assimetria entre os participantes do mercado financeiro, empoderando o consumidor no uso dos seus dados”, afirma o presidente da Associação Brasileira de Crédito Digital (ABCD), Rafael Pereira. “Quando o cliente faz uma transação com um banco, esse banco se acha dono daquela informação. O open banking inverte essa relação, deixando claro que a informação pertence ao cliente e ele tem o direito de compartilhar com quem quiser.”
+
+Segundo o diretor-executivo de TI, Produtos, Open Banking e Operações do Banco Original, Raul Moreira, isso vai permitir que o consumidor escolha os melhores produtos e serviços financeiros para o seu perfil. “O grande objetivo é criar uma dinâmica de maior competição. Quando eu tenho acesso às suas informações, consigo fazer uma oferta mais assertiva, desde que você esteja interessado na minha oferta e me autorize para isso.”
+
+Como vai funcionar?
+
+A regulação do sistema financeiro aberto, aprovada em maio pelo Banco Central e pelo Conselho Monetário Nacional (CMN), vai permitir o compartilhamento de informações entre as instituições financeiras por meio da integração e abertura dos sistemas utilizados por elas.
+
+Essa integração será feita a partir de interfaces de programação de aplicação (APIs, na sigla em inglês). Como explica Emmanuel Santana, cofundador e CTO da empresa de marketing programático Reamp, as APIs “são interfaces de comunicação de programas, que usamos o tempo todo para diversas coisas”, como quando um site ou aplicativo permite fazer login com o perfil de uma rede social ou um site mostra a sua localização por uma janela do Google Maps integrada na página. No mercado financeiro, uma API permite, por exemplo, que as informações da sua conta bancária apareçam no aplicativo do seu banco.
+
+De acordo com Santana, APIs diferentes dificultam a comunicação entre sistemas. É o caso do sistema financeiro, em que cada banco tem sua interface própria. Com o open banking, será definido um padrão de API, o que vai permitir que empresas do setor acessem os bancos de dados umas das outras de forma muito mais prática. “O open banking traz um padrão de comunicação para todo tipo de serviço bancário. Então, se você desenvolver qualquer coisa que vai se comunicar com um banco ou vai usar informações de um banco, qualquer eu seja, agora você consegue, porque existe um padrão”, completa ele.
+
+Segundo Guilherme Assis, CEO da plataforma consolidadora de investimentos Gorila, apesar de já ser possível o compartilhamento de dados hoje, o processo é muito burocrático e demorado. O open banking deve acelerar isso e melhorar o acesso das instituições e dos clientes à informação. “Se eu chego em um banco hoje com uma procuração de um cliente compartilhando uma informação com minha instituição, o banco tem que dar essa informação, mas a forma como ele vai entregar importa. Se a instituição precisa obedecer a um padrão, abrir uma API em que tudo pode acontecer com um clique, muda todo o jogo.”
+
+O que a legislação diz sobre open banking no Brasil?
+
+A Resolução Conjunta Nº 1, de 4 de maio, do Banco Central, determina que as instituições financeiras de categoria S1 e S2, o que inclui os bancos de grande porte, serão obrigadas a aderir ao sistema financeiro aberto. A adesão é opcional para instituições a partir da categoria S3, como bancos de pequeno porte, fintechs e cooperativas de crédito. Todos os participantes devem compartilhar entre si as informações de clientes de forma recíproca.
+
+A lei deixa claro que o dono das informações é o consumidor. Por isso, para cada compartilhamento de dados, a instituição deve pedir autorização explícita do cliente, que tem o poder de determinar quais informações serão compartilhadas, qual a finalidade e qual o prazo para esse compartilhamento.
+
+“Você pode autorizar um aplicativo de gestão financeira a entrar todo dia na sua conta e consolidar as suas informações da forma que você quer ver ou você pode autorizar uma empresa a acessar apenas uma vez”, exemplifica Rafael Pereira. “Então você está no controle das autorizações sempre de forma explícita e direta.”
+
+A implementação do sistema será feita em quatro etapas. A primeira, prevista para 30 de novembro de 2020, prevê que as instituições terão acesso a dados dos produtos e serviços oferecidos umas pelas outras, assim como canais de atendimento e informações de produtos relacionados a contas de depósito, dados de correspondentes bancários e crédito.
+
+Na segunda etapa, em 31 de maio de 2021, os dados dos clientes em si, como cadastro, transações de contas de depósito e operações de crédito, poderão ser compartilhados entre os participantes do sistema. A partir da terceira etapa, com início em 30 de agosto de 2021, os clientes poderão receber ofertas de crédito de outras instituições ou realizar transações por meio de terceiros. Por fim, a partir de 25 de outubro de 2021, será permitido o compartilhamento de dados como operações de câmbio, investimentos, previdência e seguros.
+
+Quais sãos impactos esperados para o mercado financeiro com a adoção do open banking?
+
+De acordo com os especialistas, o principal efeito é um aumento na competitividade no mercado financeiro e uma possível desconcentração do setor, já que o compartilhamento de informações vai permitir que as instituições procurem oferecer produtos e serviços melhores.
+
+“No Brasil, cinco bancos controlam 80% do sistema financeiro. Isso cria um padrão de desigualdade do ponto de vista competitivo. É um sistema fechado em que o banco se considera dono da sua informação e veta que você tenha acesso a produtos e serviços e mais baratos”, afirma Rafael Pereira.
+
+“As empresas sempre operaram no princípio de que o cliente era delas. Nesse novo ecossistema, o cliente não é mais de ninguém, ele é do mercado, e quem oferecer o melhor produto e preço é quem vai conseguir atrair esse cliente”, explica Guilherme Assis. “A partir do momento que a informação começa a fluir e as barreiras de comparação caem, o mercado mesmo começa a ajustar os preços.”
+
+De acordo com Leandro Vilain, por mais que a concentração bancária exista, não significa que não há competição. “O setor bancário, além de não ser o mais concentrado entre outros setores da economia, é muito competitivo. De todo modo, o open banking deve ser mais uma ferramenta com papel importante no aumento da concorrência bancária no País.”
+
+Além de uma maior concorrência entre as instituições já existentes, o open banking abre possibilidade para novos negócios surgirem, segundo Raul Moreira. “Os agregadores de contas, por exemplo. Se você tem contas em três ou quatro bancos ao mesmo tempo, eles podem consolidar tudo e apresentar de forma integrada. Esse é um tipo de novo serviço que pode surgir a partir da regulação. A dinâmica do sistema financeiro aberto vai dar competitividade para os entrantes, porque é a informação que te dá capacidade de ser competitivo no mercado.”
+
+Vilain destaca, no entanto, que legislação deve valer igualmente para todos. “É importante que as regras sejam iguais para todos os competidores, sejam bancos já estabelecidos ou novos competidores que estejam entrando. Vamos sempre defender que o mercado seja o mais aberto possível. Essa é uma regra de ouro.”
+
+O sistema do open banking é seguro?
+
+Mesmo com as melhores tecnologias de segurança, nenhum sistema é 100% à prova de invasões, ataques de cibercriminosos ou vazamentos. Mas, segundo Emmanuel Santana, a padronização dos APIs pode ajudar nesse aspecto.
+
+“Nenhum sistema de comunicação é perfeito, mas é muito mais seguro quando você tem um padrão que tenta garantir que diversas normas sejam seguidas. A tecnologia usada para armazenar esses dados é a mais segura. A única coisa que muda é que você pode dar consentimento para que, por meio desses meios seguros, outras plataformas acessem os seus dados”, explica ele.
+
+“O Brasil tem hoje uma legislação bastante rigorosa e punitiva em relação à questão de vazamento de dados. Então o que as instituições vão fazer? Vão desenvolver uma série de mecanismos, vão investir em tecnologias para evitar esses vazamentos ou compartilhamentos indevidos de informações”, avalia Moreira.
+
+Open banking pelo mundo
+
+O Brasil está longe de ser pioneiro na implementação do sistema de open banking. Esse título vai para a Inglaterra, que começou a onda ainda em 2018. Em seguida, os outros países da União Europeia começaram a discutir a implementação do open banking no bloco, que acabou se concretizando em 2019.
+
+Mais recentemente, a Austrália também concluiu a redação das regras de implementação e compartilhamento de dados para os quatro principais bancos do país.
+
+Outros dois países também já estão com as discussões bem avançadas sobre o tema, entre eles a Índia, que deve inclusive utilizar uma plataforma de identidade em âmbito nacional para garantir a segurança, e o Canadá, onde o sistema é recomendado, mas ainda não foi aprovado de maneira formal.
+
+“O grande desafio é, no tempo previsto na regulamentação do Banco Central, construir um ecossistema robusto, confiável e que seja transformacional para o setor bancário no Brasil. Já aprendemos bastante com os casos de uso, predominantemente Reino Unido e Austrália, e acreditamos que o setor bancário tem contribuições propositivas ao longo do tempo”, comenta Leandro Vilain.

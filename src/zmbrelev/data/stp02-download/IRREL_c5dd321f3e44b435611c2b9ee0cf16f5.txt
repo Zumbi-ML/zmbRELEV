@@ -1,0 +1,12 @@
+https://mobilidade.estadao.com.br/mobilidade-para-que/por-que-voce-deve-tratar-os-seus-dados-como-um-ativo/
+Entre as vantagens, as seguradoras podem modificar prêmios observando o desempenho do motorista, a conduta dele na direção. Motoristas mais seguros, com melhores atitudes pagam prêmios mais baixos. O comportamento pode ser calculado com base em diversos parâmetros: acelerações e freadas bruscas, excesso de velocidade, locais visitados perigosos, tipo de estrada, horário predominante das viagens etc. Os prêmios também podem ser alterados a partir da localização do veículo. Paga-se menos quando o carro fica na garagem de casa do que quando estacionado em um local, em uma região com alto risco de furto ou roubo.
+
+Muitas das situações que ilustram como os dados estão mudando os negócios vêm do mundo B2C. No entanto, no B2B, os dados estão tendo o mesmo impacto revolucionário. Empresas de construção e mineração, por exemplo, também estão inovando seus modelos de negócios. Em vez de vender caminhões e equipamentos, vendem serviços, garantindo um custo fixo por tonelada de mineral extraído de uma pedreira. Os modernos equipamentos de construção e mineração contêm diversos sensores que geram informações sobre inúmeras variáveis – pressão do óleo, temperatura do motor, peso e localização GPS para citar algumas.
+
+Dados como um ativo
+
+Na saúde, na educação e na política, os dados tornaram-se ativos incrivelmente poderosos. No entanto, curiosamente, os dados raramente são considerados como um ativo. Esse é um ponto importante e que vale a pena refletir – raramente as organizações pensam em dados como um ativo.
+
+Nos últimos anos, vimos uma mudança significativa na base da valorização da empresa. De acordo com um artigo recente do Financial Times, 80% da riqueza corporativa mundial agora reside em apenas 10% das empresas. Alibaba, Alphabet, Amazon e Tencent são novas entradas para a lista das empresas mais valiosas do mundo, onde o dado é um motor fundamental para sua operação.
+
+Em um recente estudo realizado por uma empresa de consultoria de dados sobre o valuation – preço justo e competitivo – de uma das maiores empresas de infraestrutura no Reino Unido, responsável por operar e manter as principais rodovias da região, concluiu-se que o valor econômico total da empresa era na ordem de £ 310 bilhões. Isso inclui £ 114 bilhões de valor de ativos físicos, a rede rodoviária, e £ 196 bilhões de valor criado pelos usuários da rede rodoviária.

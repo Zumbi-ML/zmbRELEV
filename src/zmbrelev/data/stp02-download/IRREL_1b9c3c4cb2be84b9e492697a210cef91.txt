@@ -1,0 +1,66 @@
+http://estudio.folha.uol.com.br/ibm/2020/08/1988806-mundo-pos-covid-sera-mais-conectado-e-virtual.shtml
+A pandemia de Covid-19 evidenciou ainda mais a importância da tecnologia no dia a dia das pessoas. A doença provocou alterações em tempo recorde na forma de trabalhar, se comunicar e fazer negócios. Como essas mudanças vieram para ficar, empresas que investiram na construção de boas parcerias conseguiram tirar proveito da tecnologia e se adaptar mais facilmente, ganhando vantagens competitivas para o pós-pandemia.
+
+Esse foi o tema de uma live organizada pelo Estúdio Folha e que reuniu executivos de três das maiores empresas que atuam no Brasil: IBM, TIM e Volkswagen. Como os tempos atuais exigem, Thais Marca, líder da unidade IBM Services para a América Latina, Pietro Labriola, CEO da Tim, e Pablo Di Si, CEO da VW, estavam cada um em um ambiente, mas unidos pela tecnologia. A plateia também estava a distância. Nada de grandes anfiteatros, com filas e aglomerações. Nenhum deslocamento. Perda zero de tempo. É a nova realidade.
+
+LIVES E LANÇAMENTOS
+
+Os três relataram como suas empresas se adaptaram à nova realidade. "É impressionante como tudo foi rápido. O ser humano é super adaptável. Nossos clientes se adaptaram, nós nos adaptamos", disse Thais Marca.
+
+Na TIM, por exemplo, uma live reuniu 20 mil pessoas (10 mil funcionários e 10 mil parceiros). Foi uma convenção nacional online para explicar à equipe o que acontecera e o que iria mudar por causa da Covid-19, contou Labriola.
+
+A tecnologia que permite fazer lives já estava aí, mas a Covid-19 deu um grande empurrão em seu uso. A pandemia acelerou também outros tipos de eventos virtuais. "Pela primeira vez na história, lançamos um carro digitalmente", contou Di Si, da VW.
+
+O plano de apresentação do carro, o Nivus, já previa 80% das atividades a distância. "A Covid acelerou o processo e nos levou ao lançamento 100% digital", afirmou o executivo da montadora. O evento teve a participação de mais de 130 mil pessoas, em 56 países.
+
+Cerca de três anos antes, a VW tinha começado sua transformação digital. O processo contou com parceiros como a IBM -e essa parceria foi posta à prova na fase final de desenvolvimento do sistema de inteligência artificial do Nivus.
+
+Impossibilitado de ir à fábrica da VW em São Bernardo, o funcionário da IBM recebeu o carro em casa e terminou os testes em sua garagem.
+
+A IBM trabalhava no VWPlay, infotainment 1 a bordo lançado no Nivus. A ideia era, sem manual, usar os sistemas disponíveis no carro e aplicativos. "Nem sabia [dessa história do carro ser enviado à casa do funcionário da IBM] até 10 minutos atrás", afirmou Di Si. "Mas ela ilustra a confiança nos funcionários da VW e de parceiros como a IBM", completou.
+
+HOME OFFICE
+
+Outro conceito que também já existia era o de home office. "Nada precisou ser inventado", disse Labriola, da TIM. "A verdade é que nós temos medo de inovação. Já trabalhávamos havia mais de um ano no conceito de home office, mas faltava a coragem." Sempre se começava em escala pequena, explicou. "A pandemia fez esse medo sumir, e mais de 2.000 funcionários do nosso call center, por exemplo, foram postos em home office", afirmou Labriola.
+
+Para a IBM, que já tinha uma cultura de home office, o maior desafio foi colocar praticamente toda a força de trabalho em casa em apenas 48 horas. "A preocupação com a saúde e a segurança das pessoas foi a prioridade e, ao mesmo tempo, tínhamos que ajudar nossos clientes também e garantir que estivessem em plena operação, pois grande parte deles presta serviços essenciais para a sociedade", disse Thais Marca.
+
+Na opinião de Labriola, o trabalho em casa veio para ficar, não apenas pela questão da economia no espaço físico. As pessoas, explicou, querem o home office porque param de perder tempo no deslocamento. Isso melhora a qualidade de vida e dos serviços, porque os funcionários ficam mais engajados.
+
+INTELIGÊNCIA ARTIFICIAL
+
+Usado no atendimento, e muito requisitado durante a pandemia, o sistema de inteligência artificial com reconhecimento vocal é outra tecnologia defendida por Labriola. O call center da TIM usa como base o Watson2, da IBM. "Cada vez mais a tecnologia começa a reconhecer emoções, aprendendo algo a mais em cada ligação", afirmou.
+
+As pessoas querem resolver seus problemas, não necessariamente conversar com alguém, disse Labriola.
+
+Está mudando o comportamento dos clientes de empresas de telecomunicações e mudam também outros hábitos, como o de compra de um carro. Mais de 3.000 pessoas compraram o Nivus um mês antes do lançamento, sem tê-lo visto fisicamente, destacou Pablo Di Si.
+
+E porque a relação das pessoas com os carros não é mais a mesma, todos os modelos da VW, mesmo os de entrada, terão maior capacidade digital, "todos com infotainment de qualidade", afirma Di Si.
+
+As concessionárias também mudarão. Vendedores com tablets podem mostrar carros usando realidade aumentada -e o contrato pode ser fechado com uma assinatura digital, explica Di Si. Para o test-drive, o carro pode ser levado ao potencial comprador. "Ele quer conveniência."
+
+É uma mudança dramática nos próximos anos, com showrooms muito menores. "O negócio vai ser diferente, com menos ativos, com menos capital imobilizado", afirmou Di Si.
+
+SEGURANÇA E CIBERATAQUES3
+
+Mas há um ponto em que o pós-Covid não deve ter alteração: a necessidade de cuidar da segurança. Pesquisa feita pela IBM mostra um aumento dos ataques cibernéticos durante a pandemia. Segundo Thais Marca, um ataque a uma empresa custa em média, no mundo, US$ 3,8 milhões. No Brasil, R$ 5,88 milhões.
+
+A líder da IBM Services considera vital que as empresas tenham equipes designadas para cuidar da segurança. "O custo é menor do que o incorrido num ataque", disse.
+
+Também defendeu a adoção de sistemas de automação de segurança, como a Inteligência Artificial, que reduzem drasticamente o tempo de solução de problemas.
+
+E frisa, configurações incorretas de nuvem4 se tornam um desafio de segurança crescente. É por aí que normalmente acontecem os ataques cibernéticos.
+
+Labriola, da TIM, lembra ainda de um outro ponto fraco: as pessoas. E cita o uso de senhas muito comuns (1, 2, 3, 4, nomes de filhos, datas de nascimento, entre outras) e de pessoas que respondem a emails que solicitam dados em troca de falsas promessas e promoções. São os chamados "phishings5", pesadelos que já existiam antes da pandemia e que não vão embora com ela.
+
+GLOSSÁRIO
+
+1 Infotainment - conceito que mistura informação, comunicação e entretenimento. No caso específico do carro da VW, plataforma de tecnologia que lê outras mídias e que reúne informações do veículo, do sistema de som, de conectividade e acesso a aplicativos.
+
+2 Watson - Plataforma de inteligência artificial da IBM para negócios
+
+3 Ciberataques - invasão de servidores ou de computadores, em busca de dados (como númerosde cartões de crédito ou informações confidenciais).
+
+4 Cloud (ou nuvem) - sistema distribuído de armazenagem e processamento de dados. Com acesso remoto, permite mais flexibilidade, estabilidade e escalabilidade para os negócios.
+
+5 Phishing - fraude eletrônica cometida com o envio de mensagens falsas, que induzem a pessoa a compartilhar dados como senhas e números de cartões de crédito.

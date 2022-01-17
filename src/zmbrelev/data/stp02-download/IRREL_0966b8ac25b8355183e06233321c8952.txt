@@ -1,0 +1,28 @@
+https://economia.estadao.com.br/noticias/geral,como-e-a-sensacao-de-pilotar-o-novo-carro-voador-da-embraer,70003917156
+Quatro telas de 75 polegadas (1,90 metro) instaladas na vertical, acopladas como se fossem um biombo, mostram a pista de teste da Embraer em São José dos Campos (SP). Sento diante delas em uma poltrona que desliza por um trilho e trava automaticamente. Entre mim e as telas, um monitor. No canto inferior esquerdo dele, um botão para ligar o suposto “carro voador” e outro para decolar. Do meu lado direito, puxo um joystick para trás. Pronto, começo a sobrevoar São José dos Campos.
+
+O Estadão foi até a cidade-sede da Embraer para testar o simulador do eVTOL (sigla em inglês para veículo elétrico de pouso e decolagem vertical, como é chamada oficialmente a aeronave). O equipamento foi instalado em uma das unidades da empresa em julho do ano passado e vem sendo usado para se experimentar, por exemplo, a interface entre o piloto e a máquina. Assim, pilotos de teste da Embraer operam o simulador e passam para os engenheiros o que precisa ser alterado para que o futuro equipamento seja exitoso.
+
+“O piloto testa e nos diz se uma mudança de direção tem de ser mais ou menos suave”, explica o diretor executivo da Eve (empresa da Embraer responsável pelo desenvolvimento do eVTOL), Andre Stein. Segundo o executivo, a intenção é que a pilotagem da aeronave seja fácil e intuitiva. Os softwares é que devem fazer a maior parte do trabalho, precisando de poucos comandos do piloto e garantindo uma evolução fácil para a versão autônoma do “carro voador”.
+
+Pelo que foi observado, a companhia caminha rapidamente nessa direção. Após apertar o botão de ligar e o de decolar, manuseei um joystick com a mão direita para dar a direção do voo. O equipamento respondeu de forma suave. Com a mão esquerda, movimentei uma alavanca de aceleração que permite a aeronave avançar ou retroceder.
+
+A pilotagem é tão simples que não tive nenhuma dificuldade em “aterrissar” em um ponto exato da sede da Embraer, apesar de não ter nenhuma experiência com aeronaves. A velocidade máxima tinha sido fixada já nos computadores em 30 km por hora, o que impediu que o voo fosse um pouco mais emocionante.
+
+A companhia trabalha para que o eVTOL opere a até 180 km/h, mas a ideia de que a velocidade seja controlada pelo computador, e não pelo piloto, deve acontecer na prática – o que também garante uma maior segurança.
+
+Todo o trabalho que vem sendo desenvolvido no simulador deve permitir que a Eve coloque no ar o “carro voador” já com sua máxima potência. A Embraer fez isso quando desenvolvia a família de aviões comerciais E2. No primeiro voo do primeiro jato, já se atingiram velocidade e altitudes máximas. “Tudo havia sido testado previamente num simulador igual a esse (do eVTOL). Também já vamos desenvolvendo os softwares e testando aqui de acordo com o que eles precisam para ser certificados (pelas autoridades regulatórias)”, acrescenta Stein.
+
+Enquanto pilotos e engenheiros fazem simulações em São José dos Campos, outra equipe trabalha em Gavião Peixoto (SP) em uma espécie de protótipo da aeronave. Do tamanho que deverá ter o eVTOL, mas sem fuselagem, o equipamento vem sendo utilizado para testar o conceito do “carro voador”. Os funcionários estudam, por exemplo, se as hélices estão nos locais adequados e se os sistemas estão integrados de forma correta. Stein explica que a construção vai sendo feita em bloquinhos, até que chegará o momento de colocar todos para funcionar conjuntamente.
+
+A expectativa, segundo o executivo, é que esse equipamento semelhante a um protótipo faça seu primeiro voo “nos próximos meses”. A meta da Eve é entregar o “carro voador” em 2026.
+
+Assim como o simulador, a aeronave deverá ser o mais simples possível, com peças fixas, pois isso facilita os trabalho de manutenção, tornado a operação mais barata. O eVTOL deverá ter dez motores, sendo oito deles para movê-lo verticalmente e dois, horizontalmente. Como os motores serão elétricos, não emitirão gases de efeito estuda, reduzirão o barulho e ainda serão leves – isso permitirá que vários deles sejam instalados em uma única aeronave e, portanto, façam o deslocamento vertical e o horizontal.
+
+O projeto da Eve prevê que o eVTOL voe entre 400 metros e 500 metros de altura, possa se deslocar por até 100 km e carregue quatro passageiros, além do piloto. Quando for autônomo, a capacidade deve subir para seis passageiros.
+
+Empresa recebe pedido de australiana e já tem 745 encomendas
+
+A Embraer anunciou ontem que recebeu um pedido de dez eVTOLs da Nautilus Aviation, operadora de helicópteros da Austrália. Até agora, a empresa brasileira já recebeu encomenda para entregar 745 “carros voadores”, o que tem animado o mercado e feito as ações da Embraer subirem – no ano, a alta é de quase 130%.
+
+Há ainda uma grande expectativa no mercado financeiro em relação à fusão da Eve com a Spac (empresa de propósito específico para aquisição) Zanite. O diretor executivo da Eve, Andre Stein, afirma estar “confortável” com o andamento das negociações. Com a operação, a Eve pode atingir o valor de mercado de US$ 2 bilhões.

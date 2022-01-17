@@ -1,0 +1,70 @@
+https://link.estadao.com.br/noticias/empresas,facebook-papers-expoe-o-brasil-sob-ataque-na-plataforma,70003916542
+Toby Melville/Reuters Alvo de protestos em vários países, o Facebook é terreno frágil para brasileiros, segundo seus arquivos internos
+
+Documentos internos do Facebook obtidos pelo Estadão mostram como o País se tornou, nos últimos anos, um terreno fértil para discurso de ódio, desinformação e ataques à democracia na plataforma. É um cenário que vem sendo descrito há anos por especialistas, mas que agora aparece registrado nos arquivos da empresa em forma de pesquisas, frases de funcionários e depoimentos de usuários.
+
+As revelações estão contidas nos “Facebook Papers”, um pacote de documentos da empresa vazados para um consórcio internacional de veículos de imprensa, incluindo Estadão, New York Times, Guardian e Le Monde. A divulgação dos papéis foi feita à Securities and Exchange Commission (SEC, na sigla em inglês), órgão regulador das empresas listadas em bolsa nos EUA. As informações também foram fornecidas ao Congresso americano de forma editada pelo consultor jurídico de Frances Haugen, ex-funcionária do Facebook que coletou pesquisas internas da rede social após pedir demissão em maio.
+
+Até aqui (pois o vazamento de arquivos ainda não está encerrado), as informações sobre o País apareceram fragmentadas em muitos documentos, como peças de um complexo quebra-cabeças. Já é possível, porém, enxergar como os brasileiros da rede são alvos de conteúdos tóxicos.
+
+Sem data de publicação, um dos arquivos mostra que o número de denúncias de brasileiros sobre conteúdos de ódio dobrou entre julho de 2019 e julho de 2020 – isso ocorreu mesmo com o Facebook anunciando publicamente medidas para conter o avanço desse tipo material em seus serviços.
+
+O pico das reclamações ocorreu em março de 2020, mês em que a pandemia de covid-19 se disseminou no País.
+
+Em outro documento, um funcionário exemplifica que brasileiros que moram fora do País podem estar em situação vulnerável. Ele afirma que essas pessoas são alvos de “desinformação violenta e viral” – a empresa cita Romênia e Filipinas como exemplos do mesmo problema. Publicada em 2019, essa pesquisa foca na polarização na Índia e não deixa claro o que gera risco para os imigrantes brasileiros.
+
+Ação coordenada
+
+Em um estudo de caso realizado pela empresa em março de 2021, sobre grupos com ações coordenadas em diferentes países, surge um exemplo brasileiro. A pesquisa cita a página Ordem Dourada do Brasil (ODB), que, segundo o arquivo, reúne conteúdos “evangélicos, pró-Bolsonaro, conspiratórios, pró-ditadura militar e pró-armas”. A recomendação era de que a página fosse removida por incitação antidemocrática.
+
+O Facebook classifica o grupo na “categoria 4” de gravidade em violação de conteúdo, que diz respeito à deslegitimação do processo ou do resultado de eleições livres, além da coordenação de movimentos contra a democracia ou instituições públicas baseados em desinformação.
+
+Apesar da recomendação para remover as publicações, o Estadão confirmou que a página ainda está ativa na plataforma – criada em 2014, a conta tem quase 11 mil seguidores e faz publicações frequentes no feed. A reportagem também apurou que os esforços da empresa para esse tipo de ação não dão conta da totalidade de casos que precisam ser analisados. Mesmo depois de identificadas, páginas nocivas podem levar meses até saírem do ar – novas análises dentro da empresa são realizadas, que podem concluir que a página não viola os termos da rede.
+
+Comportamentos coordenados também marcaram as eleições presidenciais de 2018 no Brasil. Na ocasião, um pequeno grupo de contas e páginas monopolizou a produção de conteúdo político no Facebook, como já mostrou o Estadão. No dia de votação do primeiro turno em 2018, 35% do conteúdo político foi gerado por apenas 3% das contas que postaram material do tipo.
+
+Em outras palavras, 6,4 milhões de posts políticos foram gerados por apenas 201 mil contas. A informação aparece em um tópico intitulado “lições aprendidas no Brasil”.
+
+Com tudo isso, soou um alarme sobre democracia brasileira dentro da empresa. Em um comentário no painel interno do Facebook feito em 2019, um funcionário da companhia cita um estudo da instituição sueca V-Dem que classifica o Brasil como um País em processo de declínio democrático. No documento, ele usa um trecho da pesquisa como exemplo para discutir maneiras de tornar a rede social menos tóxica em períodos políticos.
+
+“A autocratização agora está se manifestando em vários países grandes, incluindo Brasil, Índia, Rússia,Turquia e Estados Unidos, e já afeta um terço da população mundial – cerca de 2,5 bilhões de pessoas”, afirma o trecho citado pelo funcionário.
+
+A pesquisa da V-Dem em questão é de 2018 e está publicada no site da instituição. No texto, o funcionário afirma que o Facebook possui uma parceria com a V-Dem, mas não especifica se a empresa fez parte da pesquisa que identificou fragilidade na democracia brasileira. Em um novo estudo da instituição, realizado em 2021, a afirmação sobre o País volta a aparecer.
+
+Amizades perdidas
+
+Repetidamente, o Brasil é classificado pela empresa como um “país de risco” – nos documentos, a denominação é indicada pela sigla “ARC” (países de risco, na tradução do inglês), que seriam regiões com potencial de violência em massa.
+
+Apesar de o Facebook mudar o status dos países a cada seis meses, o Brasil sempre aparece nos documentos na zona de atenção, em especial com assuntos sobre desinformação, discurso de ódio e conteúdos inflamatórios. Em um dos arquivos, o País é citado por um funcionário do Facebook como “a mais recente grande democracia a enfrentar uma assustadora erupção de desinformação e ódio no Facebook”.
+
+O declínio nos relacionamentos dos brasileiros como reflexo do ambiente ruim no Facebook também está documentado. Em fevereiro de 2020, um novo arquivo traz o comentário de um pesquisador: “Vimos (a debandada de usuários) acontecer no Brasil durante as duas últimas eleições. Muitas amizades foram perdidas, cansadas de ver o mesmo grupo de pessoas postando o mesmo conteúdo exagerado repetidas vezes”.
+
+O ambiente polarizado também é descrito por usuários brasileiros em uma pesquisa da empresa sobre o uso problemático da plataforma. Em março de 2020, uma brasileira afirmou ao Facebook não estar satisfeita com publicações dos próprios amigos. “Teve uma época em que eu estava excluindo muitas pessoas (do Facebook) que votaram no Bolsonaro, mas então alguém disse: ‘você precisa saber o que eles estão dizendo’. Então eu os separei em um grupo específico na plataforma”, disse a usuária.
+
+Vício
+
+Apesar dos problemas, muitos cidadãos do País se sentem sugados pelos produtos de Mark Zuckerberg. A reportagem encontrou uma pesquisa da empresa que mediu, em 2019, a qualidade da relação dos brasileiros com a plataforma. No arquivo, há relatos de brasileiros sobre estarem viciados na rede social – um deles chega a comparar o Facebook a bebidas alcoólicas. “Quando você tem uma cerveja no fim de semana, você a bebe. Você precisa beber. É a mesma coisa com Facebook”, diz.
+
+“O tempo que eu gasto no Facebook não é saudável, é como um vício. Fico abrindo o app a cada meia hora, não é saudável”, afirma outra usuária.
+
+Francis Mascarenhas/Reuters Ausência de arquivos sobre o WhatsApp não permitem uma foto completa do Brasil nos Facebook Papers
+
+Sombras
+
+O retrato do Brasil nos Facebook Papers poderia ser pior. Até o momento, o volume de documentos que fazem referência ao País é menor quando comparado a outros países. No pacote, a Índia tem pastas próprias com várias pesquisas focadas. Há também estudos detalhados sobre as eleições americanas de 2020 e o ataque ao Capitólio dos Estados Unidos em janeiro.
+
+Além disso, os arquivos trazem um volume pequeno de informações sobre o WhatsApp, principal produto do Facebook no País – são mais de 120 milhões de usuários na plataforma por aqui. Por e-mail, Frances Haugen diz ao Estadão que há menos dados sobre o WhatsApp nos Facebook Papers por algumas razões. A primeira é que a equipe que trabalha no app disponibiliza poucas informações sobre o serviço. Ela diz também que o Facebook direciona ao mensageiro menos recursos para pesquisas e segurança, já que o aplicativo tem mais usuários internacionais do que americanos.
+
+Para Bruna Santos, integrante da coalizão Direitos na Rede, a criptografia de ponta-a-ponta pode representar um obstáculo real para as pesquisas na plataforma. Ainda assim, ela ressalta que há meios para incluir estudos sobre o app, sobretudo no mercado brasileiro.
+
+"É importante ter informações sobre isso porque o Brasil é um mercado de atenção. Processos políticos, como o que a gente viveu em 2018, com a disseminação de desinformação, discurso de ódio e conteúdo político no WhatsApp em si, tornam o app um grande espaço de troca de informações e de debate político. Isso torna o WhatsApp uma plataforma relevante e importante de ser analisada", afirma Bruna.
+
+Empresa
+
+À reportagem, o Facebook diz: “É legítimo sermos questionados pela maneira como lidamos com alguns dos temas mais complexos que enfrentamos. No entanto, algumas interpretações estão incorretas e conferem intenções falsas à empresa”.
+
+A empresa continua: “Milhares de pesquisadores, especialistas em políticas e engenheiros da Meta (nova holding do Facebook) se esforçam para melhorar a qualidade de nossos produtos e compreender os impactos positivos e negativos por meio de pesquisas. O que seria preocupante é se a Meta não fizesse esse tipo de pesquisa. Esses são problemas para os quais não há respostas fáceis e nenhum deles pode ser resolvido apenas pelas empresas de tecnologia. É por isso que trabalhamos em parceria com pesquisadores, reguladores e legisladores.”
+
+Sobre conteúdos tóxicos, a empresa diz que reduziu em mais da metade a quantidade de publicações com discurso de ódio que as pessoas veem na plataforma no ano passado, globalmente. “Para se ter ideia dos resultados e evolução do nosso trabalho, a prevalência de discurso de ódio foi de 0,03% ou 3 visualizações de discurso de ódio por 10 mil visualizações de conteúdo no terceiro trimestre de 2021, abaixo de 0,05%, ou 5 visualizações de discurso de ódio por 10 mil visualizações de conteúdo no trimestre anterior”, diz.
+
+Sobre o vício em redes sociais, a empresa reproduziu um texto de Nick Clegg, vice-presidente de assuntos globais e comunicação. “As pesquisas sobre os impactos das redes sociais nas pessoas ainda são relativamente incipientes e estão evoluindo, e as próprias plataformas estão mudando rapidamente. Alguns pesquisadores argumentam que precisamos de mais evidências para entender o impacto das redes sociais nas pessoas”.

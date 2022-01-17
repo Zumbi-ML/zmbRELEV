@@ -1,0 +1,24 @@
+https://link.estadao.com.br/noticias/empresas,cientista-de-ia-demitida-do-google-acusa-empresa-de-racismo,70003539816
+Cody O'Laughlin/The New York Times Timnit disse no Twitter que o Google a cortou de seus sistemas sem avisar ou conversar com ela sobre suas preocupações
+
+Uma importante cientista do Google em ética na inteligência artificial disse que foi demitida após criticar os esforços de diversidade da empresa, uma afirmação que a companhia contestou na quinta-feira, 3, no último encontro entre a gigante da internet e trabalhadores ativistas.
+
+Timnit Gebru, que é negra, disse no Twitter que foi demitida na quarta-feira, 2, após enviar um e-mail a colegas expressando frustração com a diversidade de gênero na unidade de inteligência artificial (IA) do Google e questionando se os líderes da empresa revisavam seu trabalho com mais rigor do que o de pessoas de diferentes origens. Timnit é cofundadora da organização sem fins lucrativos "Black in AI", que visa aumentar a representação de pessoas de cor na inteligência artificial, e foi coautora de um artigo importante sobre preconceito na tecnologia de análise facial.
+
+Jeff Dean, chefe da unidade de IA do Google, disse à equipe, em um e-mail analisado pela agência de notícias Reuters, que Timnit havia ameaçado renunciar a menos que ela soubesse quais colegas consideraram não publicável um rascunho de artigo que ela escreveu, uma exigência que Dean rejeitou.
+
+“Aceitamos e respeitamos sua decisão de demitir-se do Google”, escreveu Dean no e-mail, acrescentando: “Todos nós genuinamente compartilhamos a paixão de Timnit em tornar a IA mais justa e inclusiva”.
+
+Timnit disse em uma série de postagens no Twitter que o Google a cortou de seus sistemas sem avisar ou conversar com ela sobre suas preocupações.
+
+Apparently my manager’s manager sent an email my direct reports saying she accepted my resignation. I hadn’t resigned—I had asked for simple conditions first and said I would respond when I’m back from vacation. But I guess she decided for me :) that’s the lawyer speak. — Timnit Gebru (@timnitGebru) December 3, 2020
+
+A saída abrupta de Timnit acrescenta anos de angústia, incluindo várias renúncias e demissões no departamento de IA e outras organizações do Google devido à diversidade. A decisão também questiona se os esforços da empresa para minimizar os danos potenciais de seus serviços são suficientes.
+
+Mais de 150 funcionários expressaram apoio a Timnit, exigindo que o Google reforçasse seu compromisso com a liberdade acadêmica e explicasse por que escolheu “censurar” seu artigo, de acordo com uma petição publicada online. Sherlyn Ifill, presidente do Fundo de Defesa Legal e Educacional da NAACP, escreveu no Twitter que a demissão de Timnit foi "absolutamente irritante" e "um desastre".
+
+Na quarta-feira, o National Labor Relations Board emitiu uma queixa acusando o Google de monitorar e questionar ilegalmente vários trabalhadores que foram despedidos por protestarem contra as políticas da empresa e tentarem organizar um sindicato.
+
+O artigo de Timnit argumentou que as empresas de tecnologia poderiam fazer mais para garantir que os sistemas de IA destinados a imitar a escrita e a fala humana não exacerbassem os preconceitos históricos de gênero e o uso de linguagem ofensiva, de acordo com um rascunho visto pela Reuters.
+
+Em seu e-mail para a equipe, Dean disse que o artigo não foi entregue à empresa para revisão em tempo hábil e foi submetido a uma conferência sem a permissão do Google. Ele também questionou algumas de suas conclusões, que ele disse depender de preocupações desatualizadas, incluindo sobre o impacto ambiental de um grande número de computadores processando dados.

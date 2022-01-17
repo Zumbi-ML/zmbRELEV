@@ -1,0 +1,18 @@
+https://economia.estadao.com.br/noticias/geral,estudo-busca-alternativa-para-geracao-eletrica-sem-combustiveis-fosseis-em-fernando-de-noronha,70003918770
+RIO - Com o banimento de combustíveis fósseis da ilha de Fernando de Noronha a partir do ano que vem (Portaria MME 67/2018), com prazo até 2030 para sua erradicação total, a previsão da Empresa de Pesquisa Energética (EPE) é a de que os veículos elétricos vão substituir a atual frota, o que vai demandar, além de mais energia, a substituição da termoelétrica a diesel (UTE Tubarão) que garante o abastecimento da ilha, já que seria incoerente abastecer os carros elétricos com combustível poluente.
+
+De acordo com estudo feito pela EPE, foi identificado um déficit de geração elétrica a partir de 2024 na ilha, devido ao crescimento da carga com a entrada dos carros elétricos, e foram exploradas algumas alternativas para substituir o diesel.
+
+Leia Também Investimentos em tecnologia climática podem zerar emissão líquida
+
+O estudo identificou as tecnologias eólica e solar fotovoltaica, principalmente offshore (em alto mar), como as que parecem mais promissoras devido à disponibilidade de recursos. Porém, a limitação de área disponível na ilha e questões ambientais podem trazer algumas dificuldades para essas tecnologias, além do fato da regulação offshore de geração de energia ainda estar em elaboração no País.
+
+Por outro lado, destaca o estudo, os combustíveis líquidos para a geração de energia elétrica em termoelétricas podem ser transportados do continente até a ilha, seguindo a mesma logística que hoje é utilizada pelo óleo diesel, o que indica um caminho para o etanol e o biodiesel, com destaque para o biodiesel devido à diversidade de insumos e de rotas tecnológicas que podem ser utilizadas para a sua produção, destaca a EPE.
+
+A exemplo do que se observa em outros sistemas isolados, o Gás Natural Liquefeito (GNL) também pode ser uma alternativa para o atendimento a Fernando de Noronha, mas que traz questionamentos relativos à construção de um terminal de regaseificação, além das questões ambientais.
+
+Um sistema de armazenamento a bateria para aplicação centralizada também se mostrou uma alternativa viável, sendo capaz de atender a demanda de forma flexível, sem exigir muito espaço e com baixo impacto, podendo ser utilizada em conjunto com as renováveis com geração variável, como eólica e solar.
+
+O estudo também identificou várias dificuldades que impedem a interligação do arquipélago ao Sistema Interligado Nacional (SIN), indicando que pelos próximos anos Fernando de Noronha continuará a fazer parte dos Sistemas Isolados, informou a EPE.
+
+O arquipélago de Fernando de Noronha tem 21 ilhas, ilhotas e rochedos totalizando 26 quilômetros quadrados de extensão, distante 360 km de Natal (RN) e a 545 km de Recife (PE). A principal ilha, única habitada, tem extensão de 17 quilômetros quadrados, concentrando todas as atividades socioeconômicas. Atualmente, Fernando de Noronha é um distrito estadual administrado por Pernambuco, com população estimada de 3.140 habitantes em 2021, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE).
